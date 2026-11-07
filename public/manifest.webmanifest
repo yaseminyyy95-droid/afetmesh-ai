@@ -1,0 +1,11 @@
+{
+  "name": "AfetMesh AI",
+  "short_name": "AfetMesh",
+  "description": "Çevrimdışı deprem iletişimi ve arama-kurtarma önceliklendirme",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#b91c1c",
+  "lang": "tr",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
